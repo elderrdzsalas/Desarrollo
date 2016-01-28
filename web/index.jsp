@@ -12,7 +12,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link rel="stylesheet" type="text/css" href="style.css">
-        <title> IFPWAFCAD Homepage</title>
+        <title> IFPWAFCAD Moyi w/h</title>
     </head>
     <body>
         <h1>Welcome to IFPWAFCAD, the International Former Professional Wrestlers' Association for Counseling and Development!</h1>
